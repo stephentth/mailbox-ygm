@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# C extension
+.so
+
+# Editor
+.vscode
+.venv
+
+# App
+src/.env
